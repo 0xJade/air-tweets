@@ -1,0 +1,6 @@
+models/*
+data/*
+env/*
+resources/*
+__pycache__/*
+*.pt
