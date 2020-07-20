@@ -4,3 +4,4 @@ env/*
 resources/*
 __pycache__/*
 *.pt
+.ipy*
